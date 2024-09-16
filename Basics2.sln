@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Variablennamen", "Variablen
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NeuesTextatventure", "NeuesTextatventure\NeuesTextatventure.csproj", "{4CFAE4F2-9BF6-46BF-BFF5-D913909778F5}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KurzAdventure", "KurzAdventure\KurzAdventure.csproj", "{B85A0052-BBCB-4648-99DA-3F14E2CC1313}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{4CFAE4F2-9BF6-46BF-BFF5-D913909778F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4CFAE4F2-9BF6-46BF-BFF5-D913909778F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4CFAE4F2-9BF6-46BF-BFF5-D913909778F5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B85A0052-BBCB-4648-99DA-3F14E2CC1313}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B85A0052-BBCB-4648-99DA-3F14E2CC1313}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B85A0052-BBCB-4648-99DA-3F14E2CC1313}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B85A0052-BBCB-4648-99DA-3F14E2CC1313}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
