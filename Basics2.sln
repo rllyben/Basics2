@@ -5,6 +5,8 @@ VisualStudioVersion = 17.11.35222.181
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Schleifen", "Schleifen\Schleifen.csproj", "{EBFC0D17-55AB-4B2F-86D4-B3AE2464B5A3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Variablennamen", "Variablennamen\Variablennamen.csproj", "{FE234E98-3AFE-4043-93A4-73D30D72E665}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{EBFC0D17-55AB-4B2F-86D4-B3AE2464B5A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EBFC0D17-55AB-4B2F-86D4-B3AE2464B5A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EBFC0D17-55AB-4B2F-86D4-B3AE2464B5A3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FE234E98-3AFE-4043-93A4-73D30D72E665}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE234E98-3AFE-4043-93A4-73D30D72E665}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE234E98-3AFE-4043-93A4-73D30D72E665}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE234E98-3AFE-4043-93A4-73D30D72E665}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
