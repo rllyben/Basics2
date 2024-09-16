@@ -14,7 +14,7 @@ namespace Variablennamen
             // Pascal case
             int HelloWorld = 10;
 
-            // Camel case
+               // Camel case
             int helloworld = 10;
 
             // keine Spaces im Namen
@@ -25,7 +25,7 @@ namespace Variablennamen
 
             // Pascal case
             Console.WriteLine();
-        }
+        }                           
 
     }
 
