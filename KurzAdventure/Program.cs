@@ -4,6 +4,42 @@
     {
         static void Main(string[] args)
         {
+            int data = 1;
+            // ivertierun
+            // ~0b01101010
+            //  0b10010101
+
+            // binäres UND
+            // 0b01101010
+            // 0b10011101
+            // ----------
+            // 0b00001000
+
+            // binäre ODER
+            // 0b01101010
+            // 0b10011101
+            // -----------
+            // 0b11111111
+
+            // bit shiften
+            // (WERT<<Anzahl)
+            // (1<<3)
+            // 0b00000001 << 3
+            // 0b00001000
+
+            // Ein bit in einem Byte setzten
+            data = data | (1 << 3);
+            data |= (1 << 3);
+
+            // Ein bit wieder auf 0 setzten
+            data = data & ~(1 << 3);
+            data &= ~(1 << 3);
+            // 0b00001000
+            // ob00001000 &
+
+            int temp = data & (1 << 3);
+            if (temp < 0) { }
+
             // Variablen
             int gameStop = 1;
             int mainAction = 0;
